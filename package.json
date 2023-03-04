@@ -1,0 +1,17 @@
+{
+  "name": "week-04-linked-list-javascript",
+  "version": "0.0.0",
+  "description": "Week 04 - Linked List - JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./test/main.test.js",
+    "lint": "eslint --ext .js ./"
+  },
+  "author": "I-_-I",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
